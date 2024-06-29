@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\Design Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\strategypattern\\duck\\baseduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\strategypattern\\duck\\baseduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\strategypattern\\duck\\battale3ba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\strategypattern\\duck\\battale3ba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\strategypattern\\duck\\_batta5ashab_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\strategypattern\\duck\\_batta5ashab_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\strategypattern\\duck\\shootedduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\strategypattern\\duck\\shootedduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\strategypattern\\behaviors\\flybehaviors\\flywithtwowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\strategypattern\\behaviors\\flybehaviors\\flywithtwowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\strategypattern\\behaviors\\quackbehaviors\\iquackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\strategypattern\\behaviors\\quackbehaviors\\iquackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\strategypattern\\behaviors\\flybehaviors\\iflybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\strategypattern\\behaviors\\flybehaviors\\iflybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlyWithTwoWings.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Behaviors\\FlyBehaviors\\FlyWithTwoWings.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\StrategyPattern\\Behaviors\\FlyBehaviors\\FlyWithTwoWings.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Behaviors\\FlyBehaviors\\FlyWithTwoWings.cs",
+              "RelativeToolTip": "Design Pattern\\StrategyPattern\\Behaviors\\FlyBehaviors\\FlyWithTwoWings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:32:50.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IQuackBehavior.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Behaviors\\QuackBehaviors\\IQuackBehavior.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\StrategyPattern\\Behaviors\\QuackBehaviors\\IQuackBehavior.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Behaviors\\QuackBehaviors\\IQuackBehavior.cs",
+              "RelativeToolTip": "Design Pattern\\StrategyPattern\\Behaviors\\QuackBehaviors\\IQuackBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:27:32.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Batta5ashab_.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Duck\\_Batta5ashab_.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\StrategyPattern\\Duck\\_Batta5ashab_.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Duck\\_Batta5ashab_.cs",
+              "RelativeToolTip": "Design Pattern\\StrategyPattern\\Duck\\_Batta5ashab_.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:24:32.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BattaLe3ba.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Duck\\BattaLe3ba.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\StrategyPattern\\Duck\\BattaLe3ba.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Duck\\BattaLe3ba.cs",
+              "RelativeToolTip": "Design Pattern\\StrategyPattern\\Duck\\BattaLe3ba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:24:30.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShootedDuck.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Duck\\ShootedDuck.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\StrategyPattern\\Duck\\ShootedDuck.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Duck\\ShootedDuck.cs",
+              "RelativeToolTip": "Design Pattern\\StrategyPattern\\Duck\\ShootedDuck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:24:11.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFlyBehavior.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Behaviors\\FlyBehaviors\\IFlyBehavior.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\StrategyPattern\\Behaviors\\FlyBehaviors\\IFlyBehavior.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Behaviors\\FlyBehaviors\\IFlyBehavior.cs",
+              "RelativeToolTip": "Design Pattern\\StrategyPattern\\Behaviors\\FlyBehaviors\\IFlyBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:22:18.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseDuck.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Duck\\BaseDuck.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\StrategyPattern\\Duck\\BaseDuck.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\StrategyPattern\\Duck\\BaseDuck.cs",
+              "RelativeToolTip": "Design Pattern\\StrategyPattern\\Duck\\BaseDuck.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA9wBEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:18:19.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\Program.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\Program.cs",
+              "RelativeToolTip": "Design Pattern\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:17:37.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
