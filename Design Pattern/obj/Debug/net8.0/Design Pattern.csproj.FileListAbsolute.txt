@@ -12,3 +12,4 @@ D:\project\Design Pattern\Design Pattern\obj\Debug\net8.0\refint\Design Pattern.
 D:\project\Design Pattern\Design Pattern\obj\Debug\net8.0\Design Pattern.pdb
 D:\project\Design Pattern\Design Pattern\obj\Debug\net8.0\Design Pattern.genruntimeconfig.cache
 D:\project\Design Pattern\Design Pattern\obj\Debug\net8.0\ref\Design Pattern.dll
+D:\project\Design Pattern\Design Pattern\obj\Debug\net8.0\Design Pattern.sourcelink.json

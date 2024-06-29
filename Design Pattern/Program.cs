@@ -1,4 +1,5 @@
-﻿using Design_Pattern.StrategyPattern.Duck;
+﻿using Design_Pattern.SingletonPattern;
+using Design_Pattern.StrategyPattern.Duck;
 
 namespace Design_Pattern
 {
@@ -22,6 +23,17 @@ namespace Design_Pattern
 			BattaLe3ba duck3 = new BattaLe3ba();
 			duck3.Perform();
 
+
+			#endregion
+
+			#region Singleton Pattern
+
+			Employee employee = Employee.Instance;
+			employee.Id = 3;
+			Console.WriteLine(employee.Id);
+
+			Employee employee1 = Employee.Instance;
+			Console.WriteLine(employee1.Id);
 
 			#endregion
 
