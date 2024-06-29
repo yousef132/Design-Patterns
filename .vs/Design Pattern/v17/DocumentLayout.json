@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\simplefactory\\types\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\simplefactory\\types\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\simplefactory\\pizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\simplefactory\\pizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\singletonpattern\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\singletonpattern\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\simplefactory\\pizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\simplefactory\\pizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|d:\\project\\design pattern\\design pattern\\simplefactory\\types\\cheezepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDFACC-0FC4-4849-98CC-7B52DB4BF815}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\simplefactory\\types\\cheezepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +70,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaFactory.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\SimpleFactory\\PizzaFactory.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\SimpleFactory\\PizzaFactory.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\SimpleFactory\\PizzaFactory.cs",
+              "RelativeToolTip": "Design Pattern\\SimpleFactory\\PizzaFactory.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:30:08.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheezePizza.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\SimpleFactory\\Types\\CheezePizza.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\SimpleFactory\\Types\\CheezePizza.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\SimpleFactory\\Types\\CheezePizza.cs",
+              "RelativeToolTip": "Design Pattern\\SimpleFactory\\Types\\CheezePizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:23:42.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaStore.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\SimpleFactory\\PizzaStore.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\SimpleFactory\\PizzaStore.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\SimpleFactory\\PizzaStore.cs",
+              "RelativeToolTip": "Design Pattern\\SimpleFactory\\PizzaStore.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:22:59.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\SimpleFactory\\Types\\Pizza.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\SimpleFactory\\Types\\Pizza.cs",
+              "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\SimpleFactory\\Types\\Pizza.cs",
+              "RelativeToolTip": "Design Pattern\\SimpleFactory\\Types\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:19:33.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\Program.cs",
               "RelativeDocumentMoniker": "Design Pattern\\Program.cs",
               "ToolTip": "D:\\project\\Design Pattern\\Design Pattern\\Program.cs",
               "RelativeToolTip": "Design Pattern\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCcAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T21:52:00.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\project\\Design Pattern\\Design Pattern\\SingletonPattern\\Employee.cs",
               "RelativeDocumentMoniker": "Design Pattern\\SingletonPattern\\Employee.cs",

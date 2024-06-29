@@ -1,4 +1,5 @@
-﻿using Design_Pattern.SingletonPattern;
+﻿using Design_Pattern.SimpleFactory;
+using Design_Pattern.SingletonPattern;
 using Design_Pattern.StrategyPattern.Duck;
 
 namespace Design_Pattern
@@ -26,6 +27,9 @@ namespace Design_Pattern
 
 			#endregion
 
+			Console.WriteLine("========================");
+			Console.WriteLine("========================");
+
 			#region Singleton Pattern
 
 			Employee employee = Employee.Instance;
@@ -37,6 +41,16 @@ namespace Design_Pattern
 
 			#endregion
 
+			Console.WriteLine("========================");
+			Console.WriteLine("========================");
+
+			#region Simple Factory Pattern
+			PizzaStore store = new PizzaStore();
+			store.OrderPizzaBySize(5);
+			store.OrderPizzaByType("Italian");
+
+
+			#endregion
 		}
 	}
 }
